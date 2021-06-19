@@ -22,6 +22,7 @@
     "codacy": "cat ./coverage/lcov.info | codacy-coverage -v",
     "codecov": "codecov"
   },
+  "typings": "node-binance-api.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/jaggedsoft/node-binance-api.git"
